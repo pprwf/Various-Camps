@@ -1,0 +1,5 @@
+'''Enigma'''
+
+def enigma():
+    '''decode'''
+    
